@@ -11,6 +11,8 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=10B981" alt="License"></a>
   <a href="https://agentskills.io"><img src="https://img.shields.io/badge/standard-Agent%20Skills-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeD0iMiIgeT0iMTUiIGZvbnQtc2l6ZT0iMTQiPvCfpqA8L3RleHQ+PC9zdmc+" alt="Agent Skills"></a>
   <a href="https://whop.com/aipersonaacademy/"><img src="https://img.shields.io/badge/community-Whop-orange?style=flat-square&color=FF6B35" alt="Community"></a>
+  <a href="https://buymeacoffee.com/ab2005"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://paypal.me/boukhrisaymane"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
 <p align="center">
@@ -195,18 +197,24 @@ ultimate-copywriting/
 
 ## 💚 Support & Donate
 
-If this skill saves you time, makes you money, or helps your AI agent write better copy — consider supporting the project:
+TrueCam Pro, this skill, and all our open-source tools are 100% free, tracker-free, and independently developed. If it saves you time or makes you money — consider supporting:
+
+| Method | Link |
+|:-------|:-----|
+| ☕ **Buy Me a Coffee** | [buymeacoffee.com/ab2005](https://buymeacoffee.com/ab2005) |
+| 💳 **PayPal** | [paypal.me/boukhrisaymane](https://paypal.me/boukhrisaymane) |
+| 💰 **USDT (TRC-20)** | `TNWXzQRWcBhs3yutz7XMhu4UpN1xkHDwWW` |
+| ⭐ **Star this repo** | [Give it a star](https://github.com/AiPersonacademy/ultimate-copywriting-agent-skill) — free, helps others find it |
+
+### 🌐 Connect
 
 | Channel | Link |
 |:--------|:-----|
-| ⭐ **Star this repo** | [Give it a star](https://github.com/AiPersonacademy/ultimate-copywriting-agent-skill) — it's free and helps others find it |
-| 🏠 **Join the Community** | [Whop — AI Persona Academy](https://whop.com/aipersonaacademy/) |
-| 🌐 **AI Persona Academy** | [aipersonaacademy.com](https://aipersonaacademy.com) |
+| 🏠 **Whop Community** | [whop.com/aipersonaacademy](https://whop.com/aipersonaacademy/) |
+| 🌐 **Website** | [aipersonaacademy.com](https://aipersonaacademy.com) |
 | 💬 **Discord** | [discord.gg/aipersona](https://discord.gg/aipersona) |
 | 🐦 **X (Twitter)** | [@AiPersonAcademy](https://x.com/AiPersonAcademy) |
 | 📺 **YouTube** | [AI Persona Academy](https://youtube.com/@aipersonaacademy) |
-
-> **Built by [AI Persona Academy](https://aipersonaacademy.com)** — the performance content & AI automation lab.
 
 ---
 
