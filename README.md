@@ -10,7 +10,7 @@
   <a href="https://github.com/AiPersonacademy/ultimate-copywriting-agent-skill/network/members"><img src="https://img.shields.io/github/forks/AiPersonacademy/ultimate-copywriting-agent-skill?style=flat-square&color=8B5CF6" alt="Forks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=10B981" alt="License"></a>
   <a href="https://agentskills.io"><img src="https://img.shields.io/badge/standard-Agent%20Skills-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeD0iMiIgeT0iMTUiIGZvbnQtc2l6ZT0iMTQiPvCfpqA8L3RleHQ+PC9zdmc+" alt="Agent Skills"></a>
-  <a href="https://whop.com/theaicontentsystem/"><img src="https://img.shields.io/badge/community-Whop-orange?style=flat-square&color=FF6B35" alt="Community"></a>
+  <a href="https://whop.com/aipersonaacademy/"><img src="https://img.shields.io/badge/community-Whop-orange?style=flat-square&color=FF6B35" alt="Community"></a>
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ If this skill saves you time, makes you money, or helps your AI agent write bett
 | Channel | Link |
 |:--------|:-----|
 | ⭐ **Star this repo** | [Give it a star](https://github.com/AiPersonacademy/ultimate-copywriting-agent-skill) — it's free and helps others find it |
-| 🏠 **Join the Community** | [Whop — AI Content System](https://whop.com/theaicontentsystem/) |
+| 🏠 **Join the Community** | [Whop — AI Persona Academy](https://whop.com/aipersonaacademy/) |
 | 🌐 **AI Persona Academy** | [aipersonaacademy.com](https://aipersonaacademy.com) |
 | 💬 **Discord** | [discord.gg/aipersona](https://discord.gg/aipersona) |
 | 🐦 **X (Twitter)** | [@AiPersonAcademy](https://x.com/AiPersonAcademy) |
